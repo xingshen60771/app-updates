@@ -1,0 +1,10 @@
+{
+  "version": "0.9.1",
+  "date": "1970-01-01",
+  "updatelog": "test",
+  "download_url": "https://github.com/",
+  "file_hash": "ffff",
+  "package_size": 0,
+  "mandatory": false,
+  "min_os_version": "6.1" 
+}
